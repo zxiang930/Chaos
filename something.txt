@@ -1,0 +1,2 @@
+macOS Sierra 安全与隐私中允许任何来源的程序选项
+sudo spctl --master-disable 
